@@ -3,22 +3,22 @@
 Rank each of the following languages and frameworks on a 4 point scale, where 1 = "I've been paid to write production quality code with it." and 4 = "I could write a Hello World web application if I had a tutorial."
 
 
-Angular (2+) - 4
-AngularJS (1.x) - 1
-React - 4
-Vue - 1
-Ember - 1
-Node.js - 4
-Python - 4
-PHP - 1
-Scala - 0
-Clojure - 0
-Haskell - 0
-Golang - 2
-Ruby - 0
-Perl - 0
-Java - 3
-Chef - 0
+Angular (2+) - Rating: 4 <br>
+AngularJS (1.x) - Rating: 1<br>
+React - Rating: 4<br>
+Vue - Rating: 1<br>
+Ember - Rating: 1<br><br>
+Node.js - Rating: 4<br>
+Python - Rating: 4<br>
+PHP - Rating: 1<br>
+Scala - Rating: 0<br>
+Clojure - Rating: 0<br>
+Haskell - Rating: 0<br>
+Golang - Rating: 2<br>
+Ruby - Rating: 0<br>
+Perl - Rating: 0<br>
+Java - Rating: 3<br>
+Chef - Rating: 0<br>
 
 
 
