@@ -18,11 +18,12 @@ td, th {
   width: 25%;
 }
 
-tr{
+.mat-row{
   cursor: pointer !important;
 }
 
-tr:hover{
-  background-color: #8b9aa1 !important;
-  color: #000 !important;
+.mat-row:hover{
+  background-color: #8b9aa1;
+  color: #000;
 }
+
