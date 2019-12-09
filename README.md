@@ -7,7 +7,7 @@ Angular (2+) - Rating: 4 <br>
 AngularJS (1.x) - Rating: 1<br>
 React - Rating: 4<br>
 Vue - Rating: 1<br>
-Ember - Rating: 1<br><br>
+Ember - Rating: 1<br>
 Node.js - Rating: 4<br>
 Python - Rating: 4<br>
 PHP - Rating: 1<br>
